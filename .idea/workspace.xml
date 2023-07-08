@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="910032d8-02ae-4d4c-b777-71034a7b03ad" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,6 +30,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/magre/IdeaProjects/Nadia/SolarSystemBatch16",
     "onboarding.tips.debug.path": "C:/Users/magre/IdeaProjects/SolarSystemBatch16/src/Main.java"
   }
 }]]></component>
