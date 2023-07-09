@@ -9,8 +9,14 @@ public class Main {
         Omnax.Star = "4";
 
         FeatureSun AdamX = new FeatureSun();
-        AdamX.name="poya";
-        AdamX.temp="12344231 celsius";
-        AdamX.size="32942Km";
+        AdamX.name = "poya";
+        AdamX.temp = "12344231 celsius";
+        AdamX.size = "32942Km";
+
+        Planet2 feon = new Planet2();
+        feon.name="exo";
+        feon.color="red";
+        feon.size="123548km";
+        feon.temp="4235 celcius";
     }
 }
